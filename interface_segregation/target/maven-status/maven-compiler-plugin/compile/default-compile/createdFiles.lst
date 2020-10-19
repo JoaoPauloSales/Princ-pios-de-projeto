@@ -1,0 +1,8 @@
+jp\jp\interface_segregation_certo\ArquivoPDF.class
+jp\jp\interface_segregation_certo\ISalvarArquivoXML.class
+jp\jp\main\Principal.class
+jp\jp\interface_segregation_certo\ISalvarArquivoPDF.class
+jp\jp\interface_segregation_certo\ArquivoMultiformatosC.class
+jp\jp\interface_segregation_errado\ISalvarArquivoMultiformatos.class
+jp\jp\interface_segregation_errado\ArquivoMultiformatos.class
+jp\jp\interface_segregation_certo\ISalvarArquivoJSON.class
