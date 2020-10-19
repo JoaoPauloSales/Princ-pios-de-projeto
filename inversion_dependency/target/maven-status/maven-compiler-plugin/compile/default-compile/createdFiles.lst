@@ -1,0 +1,7 @@
+jp\jp\inversion_dependency_certo\IDispositivo.class
+main\Principal.class
+jp\jp\inversion_dependency_certo\InterruptorC.class
+jp\jp\inversion_dependency_certo\TV.class
+jp\jp\inversion_dependency_errado\Interruptor.class
+jp\jp\inversion_dependency_certo\LampadaC.class
+jp\jp\inversion_dependency_errado\Lampada.class
