@@ -1,0 +1,6 @@
+jp\jp\open_closed_errado\PagamentoE.class
+jp\jp\main\Principal.class
+jp\jp\open_cosed_certo\PagamentoComCartao.class
+jp\jp\open_cosed_certo\PagamentoComDinheiro.class
+jp\jp\open_cosed_certo\IPagamento.class
+jp\jp\open_cosed_certo\PagamentoComCheque.class
